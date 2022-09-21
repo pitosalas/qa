@@ -1,3 +1,5 @@
+https://www.driftingruby.com/episodes/hotwire-question-and-answer-feature
+
 # README
 
 This README would normally document whatever steps are necessary to get the
